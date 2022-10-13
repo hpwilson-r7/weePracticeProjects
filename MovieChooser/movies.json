@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Castle in the Sky",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "My Neighbour Totoro",
+    "feeling": "Happy, Nostalgic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Kiki's Delivery Service",
+    "feeling": "Cramptastic, Happy",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Only Yesterday",
+    "feeling": "Nostalgic, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Porco Rosso",
+    "feeling": "Nostalgic, Sad, Happy",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Pom Poko",
+    "feeling": "Sad",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Whisper of the Heart",
+    "feeling": "Nostalgic, Happy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Princess Mononoke",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "My Neighbour's The Yamadas",
+    "feeling": "Nostalgic, Happy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Spirited Away",
+    "feeling": "Happy, Sad, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "The Cat Returns",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Howl's Moving Castle",
+    "feeling": "Happy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Ponyo",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Arrietty",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "The Tale of the Princess Kaguya",
+    "feeling": "Sad",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "When Marnie Was There",
+    "feeling": "Sad, Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "The Castle of Cagliostro ",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "Nausicaa",
+    "feeling": "Sad, Nostalgic",
+    "medium": "Animated",
+    "ghibli": true
+  },
+  {
+    "name": "The Last Unicorn",
+    "feeling": "Sad, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Rankinbass' The Hobbit",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Help I'm a Fish!",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Paprika",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Tokyo GodFathers",
+    "feeling": "Christmassy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Arthur Christmas",
+    "feeling": "Christmassy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Rise of the Guardians",
+    "feeling": "Christmassy, Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "How To Train Your Dragon",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Shrek",
+    "feeling": "Happy, Nostalgic, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Shrek 2",
+    "feeling": "Happy, Nostalgic, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Kung Fu Panda",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Night is Short, Walk On Girl",
+    "feeling": "Happy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Princess Bride",
+    "feeling": "Nostalgic, Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "StarDust",
+    "feeling": "Cramptastic, Happy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "The Golden Compass",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Pete's Dragon",
+    "feeling": "Nostalgic",
+    "medium": "Animated, Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Mary Poppins",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Hocus Pocus",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "The Nightmare Before Christmas",
+    "feeling": "Christmassy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "A Muppet Christmas Carol",
+    "feeling": "Nostalgic, Christmassy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Muppet Treasure Island",
+    "feeling": "Nostalgic, Cramptastic, Happy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "The Muppet Movie",
+    "feeling": "Happy, Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Wolf Children",
+    "feeling": "Sad, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Belle",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Raggedy Ann and Andy's Musical Adventure",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Lord Of The Rings Marathon",
+    "feeling": "Cramptastic, Serious, Happy, Sad, Christmassy, Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Perfect Blue",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Emma 2019",
+    "feeling": "Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Much Ado About Nothing (Catherine Tate & David Tennant)",
+    "feeling": "Cramptastic, Happy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Midsummer's Night's Dream (Globe)",
+    "feeling": "Cramptastic, Happy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Chicken Run",
+    "feeling": "Happy, Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Over The Hedge",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Wrong Trousers",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "A Matter of Loaf and Death",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Curse of the WereRabbit",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "A Close Shave",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Shaun The Sheep Movie",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  }
+]
