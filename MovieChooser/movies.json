@@ -328,5 +328,71 @@
     "feeling": "Nostalgic",
     "medium": "Animated",
     "ghibli": false
+  },
+  {
+    "name": "The Mitchell's Vs The Machines",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Into The SpiderVerse",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Cloudy With a Chance of Meatballs",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Dark Crystal",
+    "feeling": "Serious",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Labyrinth",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "That Sinking Feeling",
+    "feeling": "Nostalgic, Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Monty Python: The Life of Brian",
+    "feeling": "Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Monty Python: The Holy Grail",
+    "feeling": "Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Harry Potter And The Philosopher's Stone",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Harry Potter and the Chamber of Secrets",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+      {
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
   }
 ]
