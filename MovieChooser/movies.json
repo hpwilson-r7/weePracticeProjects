@@ -389,10 +389,244 @@
     "medium": "Live Action",
     "ghibli": false
   },
-      {
+  {
     "name": "Harry Potter and the Prisoner of Azkaban",
     "feeling": "Nostalgic",
     "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "The Prince of Egypt",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Spirit: Stallion of the Cimmaron",
+    "feeling": "Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Megamind",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Flushed Away",
+    "feeling": "Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Bee Movie",
+    "feeling": "Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Robots",
+    "feeling": "Nostalgic, Happy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Ice Age",
+    "feeling": "Nostalgic, Sad, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Snoopy Come Home",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "A Charlie Brown Christmas",
+    "feeling": "Christmassy",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pokemon: The Movie 2000 - The Power of One",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pokemon 3: The Movie - Spell of the Unknown",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pokemon 4Ever: Celebi - Voice of the Forest",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pokemon Heroes: Latios and Latias",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Lucario and the Mystery of Mew",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "The Rise of Darkrai",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Detective Pikachu",
+    "feeling": "Happy",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "Free Guy",
+    "feeling": "Happy, Cramptastic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+  {
+    "name": "The Girl Who Leapt Through Time",
+    "feeling": "Cramptastic, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Snow White and the Seven Dwarfs",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Pinocchio",
+    "feeling": "Nostalgic, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Fantasia",
+    "feeling": "Nostalgic, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Dumbo",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Bambi",
+    "feeling": "Nostalgic, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Cinderella",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Alice In Wonderland",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Peter Pan",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Watership Down",
+    "feeling": "Nostalgic, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Lady and the Tramp",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "Sleeping Beauty",
+    "feeling": "Nostalgic, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+  {
+    "name": "One Hundred and One Dalmations",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "THe Sword in the Stone",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "The Three Lives of Thomasina",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "Gnomio and Juliet",
+    "feeling": "Nostalgic, Happy, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "The Aristocats",
+    "feeling": "Nostalgic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "The Fox and the Hound",
+    "feeling": "Nostalgic, Sad, Serious",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "The Wizard of Oz",
+    "feeling": "Nostalgic",
+    "medium": "Live Action",
+    "ghibli": false
+  },
+   {
+    "name": "The Great Mouse Detective",
+    "feeling": "Nostalgic, Serious, Cramptastic",
+    "medium": "Animated",
+    "ghibli": false
+  },
+   {
+    "name": "Who Framed Roger Rabbit",
+    "feeling": "Nostalgic, Serious",
+    "medium": "Animated, Live Action",
     "ghibli": false
   }
 ]
