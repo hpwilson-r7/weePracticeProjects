@@ -1,1 +1,1 @@
-# weePracticeProjects
+# Wee Practice Projects
